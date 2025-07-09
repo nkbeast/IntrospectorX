@@ -1,7 +1,7 @@
 # 🔍 IntrospectorX
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nkbeast/IntrospectorX/banner.png" width="700px" alt="IntrospectorX Logo">
+  <img src="https://github.com/nkbeast/IntrospectorX/blob/main/banner.png" width="700px" alt="IntrospectorX Logo">
 </p>
 
 <p align="center">
